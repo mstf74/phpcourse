@@ -1,0 +1,18 @@
+{
+    "name": "user/course",
+    "description": "mstf learning php course",
+    "type": "project",
+    "authors": [
+        {
+            "name": "mstf74",
+            "email": "mostafa3333gg@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework",
+            "App\\": " sre/App"
+        }
+    }
+}
